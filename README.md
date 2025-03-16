@@ -6,3 +6,8 @@ Super-resolution (SR) image quality assessment (SR-IQA) plays a crucial role in 
 ![HMTNet_1](https://github.com/user-attachments/assets/06bc48ab-b8a7-4ed1-aa96-451f07dfe471)
 # Quantitative results
 ![HMTNet_2](https://github.com/user-attachments/assets/78f25b71-9ce1-4b57-8803-7a1fca69eb78)
+# Qualitive results
+![1](https://github.com/user-attachments/assets/93ae3c03-49dc-4ebb-a1e3-dc866d310cad)
+Fig. 8 Eight best cases are derived from the results of the evaluation of SR images using the proposed method on MA database. The left / middle / right values denote MOS value, the prediction score by our method, and the prediction score by C2MT, respectively. The third row represents the predicted quality grading results of SR images.
+![2](https://github.com/user-attachments/assets/45285544-0cfc-4b55-9790-357df5f15e2d)
+Fig. 9 Four worst cases are derived from the results of the evaluation of SR images using the proposed method on MA database. The left / middle / right values denote MOS value, the prediction score using our method, and the prediction score using C2MT. The third row represents the predicted quality grading results of SR images.
